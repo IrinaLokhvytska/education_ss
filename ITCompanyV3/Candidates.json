@@ -1,0 +1,37 @@
+[
+    {
+      "name": "Anton",
+      "wantedSalary": 700,
+      "profile": "QC"
+    },
+    {
+      "name": "Julia",
+      "wantedSalary": 650,
+      "profile": "QC"
+    },
+    {
+      "name": "Ivan",
+      "wantedSalary": 700,
+      "profile": "Dev"
+    },
+    {
+      "name": "Marina",
+      "wantedSalary": 700,
+      "profile": "Dev"
+    },
+    {
+    "name": "Inna",
+    "wantedSalary": 300,
+    "profile": "Dev"
+    },
+    {
+      "name": "Vlad",
+      "wantedSalary": 850,
+      "profile": "PM"
+    },
+    {
+      "name": "Andrey",
+      "wantedSalary": 900,
+      "profile": "PM"
+    }
+  ]
